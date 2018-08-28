@@ -258,7 +258,7 @@ gss %>%
     ## 3 Refused   315
     ## 4 <NA>    22602
 
-We see a clear list of all levels, and corresponding number of respondents. It is basically a binary variable: **yes** (own a gun) or **no** (don't own a gun).
+We see a clear list of all levels, and corresponding number of respondents. It is basically a binary variable: **yes** (own a gun) or **no** (doesn't own a gun).
 
  
 
