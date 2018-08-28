@@ -114,7 +114,7 @@ The results shows that from 1994 onwards, the survey was conducted **every secon
 
  
 
-#### **Exploratory data analysis for the Research question 1**
+### **Exploratory data analysis for the Research question 1**
 
  
 
@@ -164,7 +164,7 @@ The distribution is multimodal, with two peeks surely beeing **zero** and **two*
 
  
 
-#### **Exploratory data analysis for the Research question 2**
+### **Exploratory data analysis for the Research question 2**
 
  
 
@@ -223,7 +223,7 @@ It can be seen from the plot that there are many missing values (NA), but from t
 
  
 
-#### **Exploratory data analysis for the Research question 3**
+### **Exploratory data analysis for the Research question 3**
 
  
 
@@ -273,7 +273,7 @@ Part 4: Inference
 
  
 
-#### **Hypothesis for the Research question 1**
+### **Hypothesis for the Research question 1**
 
  
 
@@ -291,7 +291,7 @@ The goal here is to check for the selected time period (from 2002 to 2012), whet
 
  
 
-#### **Inference for the Research question 1**
+### **Inference for the Research question 1**
 
  
 
@@ -351,7 +351,7 @@ Therefore, we **cannot** claim that there is a difference in the average number 
 
  
 
-#### **Hypothesis for the Research question 2**
+### **Hypothesis for the Research question 2**
 
  
 
@@ -369,7 +369,7 @@ The goal here is to check for the selected time period (from 2002 to 2012), whet
 
  
 
-#### **Inference for the Research question 2**
+### **Inference for the Research question 2**
 
  
 
@@ -451,7 +451,7 @@ Therefore, we can claim that the proportion of people who think that **homosexua
 
  
 
-#### **Hypothesis for the Research question 3**
+### **Hypothesis for the Research question 3**
 
  
 
@@ -469,7 +469,7 @@ The goal here is to check for the selected time period (from 2002 to 2012), whet
 
  
 
-#### **Inference for the Research question 3**
+### **Inference for the Research question 3**
 
  
 

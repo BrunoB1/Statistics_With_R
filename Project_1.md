@@ -310,7 +310,7 @@ From the chart, it is hard to see any particular trend of relative number of smo
 
  
 
-#### Conclusion on Research Question 1
+### Conclusion on Research Question 1
 
  
 
@@ -402,7 +402,7 @@ Here, a clear trend of **alcohol consumption** across **education** levels can b
 
  
 
-#### Conclusion on Research Question 2
+### Conclusion on Research Question 2
 
  
 
@@ -521,7 +521,7 @@ It is clear that in the segment of people that have experienced **depression**, 
 
  
 
-#### Conclusion on Research Question 3
+### Conclusion on Research Question 3
 
  
 
