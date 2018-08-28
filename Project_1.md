@@ -34,9 +34,6 @@ load("brfss2013.RData")
 Part 1: Data
 ------------
 
-<style>
-div.grey pre { background-color: #f7f7f7; } 
-</style>
  
 
 The BRFSS survey covers all 50 US states, D.C. and three other US teritories. Regarding the geography at the state level,people across USA are sampled randomly because basically all teritories are covered in the survey. The collected data is weighted for each state, so that it proplerly represents the share in the US population. Therefore, results from the analysis can be generalized to the whole US population.
