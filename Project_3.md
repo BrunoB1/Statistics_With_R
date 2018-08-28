@@ -258,7 +258,7 @@ Part 4: Modeling
 
  
 
-##### **Choosing the variables for the model**
+#### **Choosing the variables for the model**
 
  
 
@@ -284,7 +284,7 @@ The variables that have been chosen for the regression model are:
 
  
 
-##### **Intentionally omitted variables**
+#### **Intentionally omitted variables**
 
  
 
@@ -302,7 +302,7 @@ The variables that have not been even considered for the model:
 
  
 
-##### **Excluded variables**
+#### **Excluded variables**
 
  
 
@@ -340,7 +340,7 @@ The variables that have been considered and tried, but in the end, have been exc
 
  
 
-##### **Filtering the dataset**
+#### **Filtering the dataset**
 
  
 
@@ -369,7 +369,7 @@ All the analysis in the ***Chapter 4 - Modelling*** was done with filtering appl
 
  
 
-##### **The model selection method**
+#### **The model selection method**
 
  
 
@@ -383,7 +383,7 @@ In terms of selection criteria (adjusted *R*<sup>2</sup> vs. p-value), **p-value
 
  
 
-##### **Checking for multicollinearity**
+#### **Checking for multicollinearity**
 
  
 
@@ -403,7 +403,7 @@ It is clear from the output that the **runtime** and **imdb\_num\_votes** variab
 
  
 
-##### **The Model**
+#### **The Model**
 
  
 
@@ -481,7 +481,7 @@ None of the other variables were able to improve the adjusted R2 (without overfi
 
  
 
-##### **Model Coefficients**
+#### **Model Coefficients**
 
  
 
@@ -529,7 +529,7 @@ With every additional year in terms of release date (e.g. year in future), the I
 
  
 
-##### **Model Diagnostics**
+#### **Model Diagnostics**
 
  
 
@@ -711,7 +711,7 @@ Part 6: Conclusion
 
  
 
-##### **Findings related to research question**
+#### **Findings related to research question**
 
  
 
@@ -729,7 +729,7 @@ Some variables which were expected to be good determinants of the IMDB rating, l
 
  
 
-##### **Findings related to data**
+#### **Findings related to data**
 
  
 
@@ -743,7 +743,7 @@ Finding the **optimal model** is **quite demanding**. If there are many variable
 
  
 
-##### **Shortcomings**
+#### **Shortcomings**
 
  
 
