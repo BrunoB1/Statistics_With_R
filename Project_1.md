@@ -62,7 +62,7 @@ Part 2: Research questions
 
  
 
-##### **Research question 1**
+#### **Research question 1**
 
  
 
@@ -78,7 +78,7 @@ Some particular questions:
 
  
 
-##### **Research question 2**
+#### **Research question 2**
 
  
 
@@ -96,7 +96,7 @@ Some particular questions:
 
  
 
-##### **Research question 3**
+#### **Research question 3**
 
  
 
@@ -203,8 +203,7 @@ In this step, the long names for **income** levels are substituted with shorter 
 Bar chart showing percentage of **smokers** across **income** levels (the numerical result shown just above):
 
 ``` r
-ggplot (Smokers_Income, aes(x = Income_Level, y = Smokers_Relative_Share)) + 
-    geom_col(color = "black") + 
+ggplot (Smokers_Income, aes(x = Income_Level, y = Smokers_Relative_Share)) + geom_col(color = "black") +
     theme_minimal()
 ```
 
