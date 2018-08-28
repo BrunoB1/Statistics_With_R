@@ -10,6 +10,6 @@ Course 1: Introduction to Probability and Data
 Course 2: Inferential Statistics  
 Course 3: Linear Regression and Modelling  
 
-Project 1: Exploring the BRFSS data
+Project 1: Exploring the BRFSS data  
 Project 2: Statistical inference with the GSS data  
 Project 3: Modeling and prediction for movies  
