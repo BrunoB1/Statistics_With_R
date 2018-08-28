@@ -74,7 +74,7 @@ An interesting analysis would be to examine the structure of a **movie gross box
 
  
 
-Part 3: Exploratory data analysis
+Part 3: Exploratory Data Analysis
 ---------------------------------
 
  
