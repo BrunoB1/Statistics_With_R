@@ -54,19 +54,19 @@ Part 2: Research questions
 
  
 
-##### **Research question 1**
+#### **Research question 1**
 
 The goal of the Research question 1 is to explore is there a difference in the **mean number of children per family**, between 2002 and 2012 (10 year period).
 
  
 
-##### **Research question 2**
+#### **Research question 2**
 
 The goal of the Research question 2 is to explore if the proportion of people who think that **homosexuality is NOT wrong**, increased from 2002 to 2012.
 
  
 
-##### **Research question 3**
+#### **Research question 3**
 
 The goal of the Research question 3 is to explore if the proportion of people who **own a gun**, changed from 2002 to 2012.
 
@@ -114,7 +114,7 @@ The results shows that from 1994 onwards, the survey was conducted **every secon
 
  
 
-##### **Exploratory data analysis for the Research question 1**
+#### **Exploratory data analysis for the Research question 1**
 
  
 
@@ -164,7 +164,7 @@ The distribution is multimodal, with two peeks surely beeing **zero** and **two*
 
  
 
-##### **Exploratory data analysis for the Research question 2**
+#### **Exploratory data analysis for the Research question 2**
 
  
 
@@ -223,7 +223,7 @@ It can be seen from the plot that there are many missing values (NA), but from t
 
  
 
-##### **Exploratory data analysis for the Research question 3**
+#### **Exploratory data analysis for the Research question 3**
 
  
 
@@ -273,7 +273,7 @@ Part 4: Inference
 
  
 
-##### **Hypothesis for the Research question 1**
+#### **Hypothesis for the Research question 1**
 
  
 
@@ -291,7 +291,7 @@ The goal here is to check for the selected time period (from 2002 to 2012), whet
 
  
 
-##### **Inference for the Research question 1**
+#### **Inference for the Research question 1**
 
  
 
@@ -351,7 +351,7 @@ Therefore, we **cannot** claim that there is a difference in the average number 
 
  
 
-##### **Hypothesis for the Research question 2**
+#### **Hypothesis for the Research question 2**
 
  
 
@@ -369,7 +369,7 @@ The goal here is to check for the selected time period (from 2002 to 2012), whet
 
  
 
-##### **Inference for the Research question 2**
+#### **Inference for the Research question 2**
 
  
 
@@ -451,7 +451,7 @@ Therefore, we can claim that the proportion of people who think that **homosexua
 
  
 
-##### **Hypothesis for the Research question 3**
+#### **Hypothesis for the Research question 3**
 
  
 
@@ -469,7 +469,7 @@ The goal here is to check for the selected time period (from 2002 to 2012), whet
 
  
 
-##### **Inference for the Research question 3**
+#### **Inference for the Research question 3**
 
  
 
@@ -522,7 +522,7 @@ inference(y = owngun , x = as.factor(year), data = Owning_gun, statistic = "prop
 
 The data **does NOT provide** a convincing evidence that the proportion **p\_2012** (0.344) is different than the proportion **p\_2002** (0.338), as the p-value is **p = 0.82** (it is much higher than the significance level **alpha = 0.05**).
 
-Therefore, we **cannot** claim that there is a difference in the proportion of people who own a gun, between 2002 and 2012. It can be said that the society has not changed much in terms of armament, from 2002 to 2012. The armament has not decreased, nor increased.
+Therefore, we **cannot** claim that there is a difference in the proportion of people who own a gun, between 2002 and 2012. It can be said that the society has not changed much in terms of armament, from 2002 to 2012. The armament has not decreased nor increased.
 
  
 
