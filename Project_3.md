@@ -268,7 +268,7 @@ The variables that have been chosen for the regression model are:
 
  
 
--   **imdb\_num\_votes** - Numerical variable. Presents the number of people who voted for a movie. It can be seen as a proxy which represents how popular a particular movies is or was at the time.
+-   **imdb\_num\_votes** - Numerical variable. Presents the number of people who voted for a movie. It can be seen as a proxy which represents how popular a particular movies is / was at the time.
 
 -   **runtime** - Numerical variable. The lenght of a movie given in minutes. Even though insignificant (p-value = 0.13), it improved the adjusted *R*<sup>2</sup>.
 
